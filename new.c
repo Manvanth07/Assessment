@@ -22,4 +22,12 @@ int main() {
             printf("You selected Option 1.\n");
             break;
      }
+<<<<<<< HEAD
 printf("newcode")
+=======
+
+
+done
+
+
+>>>>>>> test2
