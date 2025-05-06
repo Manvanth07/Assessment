@@ -12,4 +12,14 @@ int main() {
     printf("4. Option 4\n");
     printf("5. Option 5\n");
     printf("Enter your choice (1-5): ");
-    
+   
+     // Taking user input
+    scanf("%d", &choice);
+
+    // Responding based on user choice
+    switch (choice) {
+        case 1:
+            printf("You selected Option 1.\n");
+            break;
+     }
+
